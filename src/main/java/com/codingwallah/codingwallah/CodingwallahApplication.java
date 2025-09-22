@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CodingwallahApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello world");
+	
 		SpringApplication.run(CodingwallahApplication.class, args);
 	}
 
