@@ -1,0 +1,6 @@
+com\example\sqlwebhook\service\WebhookService.class
+com\codingwallah\codingwallah\CodingwallahApplication.class
+com\example\sqlwebhook\dto\SolutionRequest.class
+com\example\sqlwebhook\dto\WebhookRequest.class
+com\example\sqlwebhook\Application.class
+com\example\sqlwebhook\dto\WebhookResponse.class
